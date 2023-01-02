@@ -37,4 +37,4 @@ a simple guide about how you can use any email signature with gmail...
 8. That's it! Your signature will now be automatically inserted to the end of any emails you send from Gmail.
 ---
 
-## it's free for all, don't hesitate to use this if you want.
+## This email signature is free for all. No Credit is needed. just clone it and edit where necessary.
