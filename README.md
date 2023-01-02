@@ -11,6 +11,8 @@ a simple guide about how you can use any email signature with gmail...
 
 ### Here's a guid how you can integrate this with Gmail:
 
+(N.B: this guide is from www.hubspot.com)
+
 1. Open Gmail in your browser (we're using Chrome for this example) by typing “mail.google.com” in the address bar.
 <img src='https://www.hubspot.com/hs-fs/hubfs/access-gmail-browser.png?width=221&name=access-gmail-browser.png'/>
 
