@@ -1,5 +1,7 @@
 # html-email-signature
 
+a simple guide about how you can use any email signature with gmail...
+
 
 ### here is the sample:
 ---
@@ -21,7 +23,7 @@
 4. Click on “+ Create New”, insert the internal name of your signature then select “Create.”
 <img src='https://www.hubspot.com/hs-fs/hubfs/gmail-signature-name.png?width=424&name=gmail-signature-name.png'/>
 
-5. Type your signature into the box provided or paste it directly from HubSpot’s Email Signature Generator. You can use basic HTML formatting here, such as bold or italics.
+5. Type your signature into the box provided or paste it directly from the output of your html file. You can use basic HTML formatting here, such as bold or italics.
 <img src='https://www.hubspot.com/hs-fs/hubfs/type-paste-signature.png?width=426&name=type-paste-signature.png'/>
 
 6. Once you're happy with your signature, choose when you want it to appear by navigating to “Signature Defaults.” Use the dropdown menus under “FOR NEW EMAILS USE” and “ON REPLY/FORWARD USE” then select your signature or “No signature”.
