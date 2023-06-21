@@ -6,7 +6,7 @@ a simple guide about how you can use any email signature with gmail...
 ### here is the sample:
 ---
 
-<img src='https://i.ibb.co/Y2pJcym/sample.png'/>
+<img src='https://i.ibb.co/3v6NMt4/signature.png'/>
 
 
 ### Here's a guid how you can integrate this with Gmail:
